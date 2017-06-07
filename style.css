@@ -16,7 +16,9 @@ p {
 	
 }
 
-footer {
+article {
+	border-top :  solid red 2px;
+	border-bottom : solid red 2px;
 	
 	
 }
