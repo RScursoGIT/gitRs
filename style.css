@@ -2,3 +2,9 @@ h1 {
  color : blue;
  
 }
+
+p {
+	border: solid red 2px;
+	width : 60px;
+	
+}
