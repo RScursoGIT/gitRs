@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-	border: solid red 2px;
+	border: solid blue 2px;
 	width : 60px;
 	font-style : italic;
 	
@@ -23,11 +23,3 @@ article {
 	
 }
 
-hr {
-	
-	color : red;
-	background-color: red;
-	height: 2px;
-	
-	
-}
