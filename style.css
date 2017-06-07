@@ -18,5 +18,14 @@ p {
 
 footer {
 	
-	text-align : center;
+	
+}
+
+hr {
+	
+	color : red;
+	background-color: red;
+	height: 2px;
+	
+	
 }
