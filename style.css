@@ -6,5 +6,6 @@ h1 {
 p {
 	border: solid red 2px;
 	width : 60px;
+	font-style : italic;
 	
 }
